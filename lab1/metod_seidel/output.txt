@@ -1,0 +1,7 @@
+Answer
+x1 = 8.00042
+x2 = -6.99992
+x3 = 5.99984
+x4 = 4.00005
+
+Number of itteration: 4

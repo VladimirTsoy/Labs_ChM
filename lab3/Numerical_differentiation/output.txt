@@ -1,0 +1,4 @@
+Left-sided derivative: y'(x) = 0.4142
+Right-sided derivative: y'(x) = 0.3179
+The derivative of the second order of accuracy: y'(x) = 0.36605
+The second derivative: y"(x) = -0.0962999

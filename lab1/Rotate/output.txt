@@ -1,0 +1,16 @@
+Matrix Lambda
+10.3014	1.2961e-005	0	
+1.2961e-005	-12.9621	0	
+0	0	-7.3393	
+
+Matrix Own Vectors
+0.686013	0.413773	-0.59848	
+-0.405322	0.900429	0.157928	
+0.604235	0.134236	0.785417	
+
+Eigenvalues
+lambda1 = 10.3014
+lambda2 = -12.9621
+lambda3 = -7.3393
+
+Number of itteration: 5
